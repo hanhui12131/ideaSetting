@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CalendarUtil'">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>353</Count>
+          <Count>357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
