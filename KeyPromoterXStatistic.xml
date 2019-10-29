@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'MidlandTaxManageApplication'</Description>
-          <Count>964</Count>
+          <Count>965</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Relation'">
