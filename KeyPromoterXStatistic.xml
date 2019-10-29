@@ -257,6 +257,14 @@
           <Count>529</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
@@ -441,6 +449,22 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Car (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Car (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Car'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Car'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CodeGenerator.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -519,6 +543,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'EmpIncomeContr....main()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Flow'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Flow'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HelloWorld'">
@@ -687,6 +719,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testInit()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Scala Console">
+        <Item>
+          <IdeaActionID>Scala.RunConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Run Scala Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
