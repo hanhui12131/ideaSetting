@@ -710,7 +710,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'initAccountTest()'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'saveCommPageTest()'">
@@ -902,7 +902,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MidlandTaxManageApplication'</Description>
-          <Count>599</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SaveCommPageTest'">
